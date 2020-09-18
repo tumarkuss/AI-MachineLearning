@@ -1,2 +1,9 @@
+# Welcome! Here I am practicing Machine Learning/AI.
+...if you know any good resources, please email me at tumarkuss@gmail.com
+
 # AI-MachineLearning-Practice
-Here I will be trying out AI/Machine Learning techniques and practices.
+I will be trying out AI/Machine Learning techniques and practices, some of them will be uploaded to "Practicing" directory.
+
+Note: No personal project materials will be posted here yet. 
+Thanks!
+
