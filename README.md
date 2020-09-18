@@ -1,4 +1,4 @@
-# Welcome! Here I am practicing Machine Learning/AI.
+# Welcome! I am practicing Machine Learning/AI here.
 ...if you know any good resources, please email me at tumarkuss@gmail.com
 
 # AI-MachineLearning-Practice
