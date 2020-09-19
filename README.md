@@ -45,7 +45,7 @@ start working on AI developemnt, the better it will for them and future of the b
 # My current projects:
 
 ### Check this out!
-1.[Practice](https://github.com/tumarkuss/AI-MachineLearning/Practice/) 
+1.[Practice](https://github.com/tumarkuss/AI-MachineLearning/tree/master/Practice) 
 2.[MatchAI](https://github.com/tumarkuss/AI-MachineLearning/MatchAI)
 
 
