@@ -2,7 +2,7 @@
 
 I will not be posting my [personal project](www.github.com/tumarkuss/AI-MachineLearning-Practice/MatchAI) documentation here yet. But some of the techniques and AI practices will be available in the [Practice](www.github.com/tumarkuss/AI-MachineLearning-Practice/Practice) directory. I will be more than glad to share some of my work with you in exchange for your opinion; feel free to [contact me](mailto:tumarkuss@gmail.com)
 
-## My experience and qualification:
+## My tech experience:
 ```markdown
 I am a senior year student at Pace University, majoring in Computer Science(B.S.).
 Up to my first year at Berkeley City College, I had no understanding of CS
