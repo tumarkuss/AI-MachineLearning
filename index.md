@@ -1,6 +1,6 @@
 # Hello! This Tumar Kussainov's AI/Machine Learning repository:
 
-I will not be posting my [personal project](www.github.com/tumarkuss/AI-MachineLearning-Practice/MatchAI) documentation here yet. But some of the techniques and AI practices will be available in the [Practice](www.github.com/tumarkuss/AI-MachineLearning-Practice/Practice) directory. I will be more than glad to share some of my work with you in exchange for your opinion; feel free to [contact me](tumarkuss@gmail.com)
+I will not be posting my [personal project](www.github.com/tumarkuss/AI-MachineLearning-Practice/MatchAI) documentation here yet. But some of the techniques and AI practices will be available in the [Practice](www.github.com/tumarkuss/AI-MachineLearning-Practice/Practice) directory. I will be more than glad to share some of my work with you in exchange for your opinion; feel free to [contact me](mailto:tumarkuss@gmail.com)
 
 ## My experience and qualification:
 ```markdown
@@ -41,13 +41,13 @@ start working on AI developemnt, the better it will for them and future of the b
 
 ```
 ### If you're still here, thanks for reading!
-## What is next?
-```markdown
+
+# My current projects:
+
 Check this out!
 1.[Practice](www.github.com/tumarkuss/AI-MachineLearning-Practice/Practice)
 2.[MatchAI](www.github.com/tumarkuss/AI-MachineLearning-Practice/MatchAI)
 
-```
 
 ### Support or Contact
 1. [my email](tumarkuss@gmail.com)
