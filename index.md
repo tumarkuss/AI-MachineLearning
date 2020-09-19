@@ -40,8 +40,8 @@ start working on AI developemnt, the better it will for them and future of the b
 
 
 ```
-### If you're still here-thanks for reading!
-##What is next?
+### If you're still here, thanks for reading!
+## What is next?
 ```markdown
 Check this out!
 1.[Practice](www.github.com/tumarkuss/AI-MachineLearning-Practice/Practice)
