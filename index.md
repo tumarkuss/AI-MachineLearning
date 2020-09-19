@@ -27,7 +27,7 @@ were HTML, CSS, Pascal :(
 ```markdown
   I think every abmitious coder wants to launch a startup and be on top of the world, but realistic coder
 wants to be a part and contribute into some innovative and outstanding technology through hard work,
-everyday practice and team appreciacion.
+everyday practice and team appreciation.
 
 1. AI is literally magic, and mastering this craft would bring unique dividents.
 2. It is innovative and rewarding with many real-life applications.
