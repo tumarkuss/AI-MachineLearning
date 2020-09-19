@@ -1,6 +1,6 @@
 # Hello! This is AI/Machine Learning repository:
 
-I will not be posting my [personal project](www.github.com/tumarkuss/AI-MachineLearning/MatchAI) documentation here yet. But some of the techniques and AI practices will be available in the [Practice](www.github.com/tumarkuss/AI-MachineLearning/Practice) directory. I will be more than glad to share some of my work with you in exchange for your opinion; feel free to [contact me](mailto:tumarkuss@gmail.com)
+I will not be posting my [personal project](https://github.com/tumarkuss/AI-MachineLearning/MatchAI) documentation here yet. But some of the techniques and AI practices will be available in the [Practice](https://github.com/tumarkuss/AI-MachineLearning/Practice) directory. I will be more than glad to share some of my work with you in exchange for your opinion; feel free to [contact me](mailto:tumarkuss@gmail.com)
 
 ## My tech experience:
 ```markdown
@@ -18,9 +18,9 @@ were HTML, CSS, Pascal :(
 
 - 2 internships
 - 3 personal projects
-  and
-# Most importantly: experience, knowledge and friends!
- > And I am beginning my new journey
+  and:
+ >Most importantly: experience, knowledge and friends!
+> And I am beginning my new journey
 ```
 ## Why AI?
 
@@ -45,11 +45,11 @@ start working on AI developemnt, the better it will for them and future of the b
 # My current projects:
 
 ### Check this out!
-1.[Practice](www.github.com/tumarkuss/AI-MachineLearning/Practice) 
-2.[MatchAI](www.github.com/tumarkuss/AI-MachineLearning/MatchAI)
+1.[Practice](https://github.com/tumarkuss/AI-MachineLearning/Practice) 
+2.[MatchAI](https://github.com/tumarkuss/AI-MachineLearning/MatchAI)
 
 
 ### Support or Contact
 1. [my email](mailto:tumarkuss@gmail.com)
-2. [Instagram](www.instagram.com/tumarkuss)
-3. [LinkedIn](www.linkedin.com/in/tumarkuss)
+2. [Instagram](https://instagram.com/tumarkuss)
+3. [LinkedIn](https://linkedin.com/in/tumarkuss)
