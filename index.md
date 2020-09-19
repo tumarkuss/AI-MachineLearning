@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Hello! This Tumar Kussainov's AI/Machine Learning repository:
 
-You can use the [editor on GitHub](https://github.com/tumarkuss/AI-MachineLearning-Practice/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I will not be posting my [personal project](www.github.com/tumarkuss/AI-MachineLearning-Practice/MatchAI) documentation here yet. But some of the techniques and AI practices will be available in the [Practice](www.github.com/tumarkuss/AI-MachineLearning-Practice/Practice) directory. I will be more than glad to share some of my work with you in exchange for your opinion; feel free to [contact me](tumarkuss@gmail.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My experience and qualification:
+```markdown
+I am a senior year student at Pace University, majoring in Computer Science(B.S.).
+Up to my first year at Berkeley City College, I had no understanding of CS
+and the only programming experience I have worked with by that time
+were HTML, CSS, Pascal :(
 
-### Markdown
+# Today, despite of all the douts and challenges, my coding experience is not so bad:)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 1 year - Swift and C.
+- 1,5 years - Python.
+- 3 years - Java, C++.
+- Familiar with - HTML, CSS, JavaScript, API developement
+
+- 2 internships
+- 3 personal projects
+  and
+# Most importantly: experience, knowledge and friends!
+ # And I am beginning my new journey
+```
+## Why AI?
 
 ```markdown
-Syntax highlighted code block
+  I think every abmitious coder wants to launch a startup and be on top of the world, but realistic coder
+wants to be a part and contribute into some innovative and outstanding technology through hard work,
+everyday practice and team appreciacion.
 
-# Header 1
-## Header 2
-### Header 3
+1. AI is literally magic, and mastering this craft would bring unique dividents.
+2. It is innovative and rewarding with many real-life applications.
+3. AI combines many CS fields in one. Machine Learning alone is not enough to have a successful AI.
+4. Gives freedom of creativity. We are used that Datastructures are all defined, and everything in coding is the way it is,
+and BST is the best sorting method period. There no such things in AI. No rules or stereotypes. Enjoy!
+5. The Industry will undoubtedly be booming in the near future, and the earlier Engineers
+start working on AI developemnt, the better it will for them and future of the businesses, economy, tech, the people.
+6. Uncertainty provides less competitive career opportunities for the engineers.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+```
+### If you're still here-thanks for reading!
+##What is next?
+```markdown
+Check this out!
+1.[Practice](www.github.com/tumarkuss/AI-MachineLearning-Practice/Practice)
+2.[MatchAI](www.github.com/tumarkuss/AI-MachineLearning-Practice/MatchAI)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tumarkuss/AI-MachineLearning-Practice/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. [my email](tumarkuss@gmail.com)
+2. [Instagram](www.instagram.com/tumarkuss)
+3. [LinkedIn](www.linkedin.com/in/tumarkuss)
