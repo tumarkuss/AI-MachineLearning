@@ -9,7 +9,7 @@ Up to my first year at Berkeley,CA I had no understanding of CS
 and the only programming experience I have worked with by that time
 were HTML, CSS, Pascal :(
 
-# Today, despite of all the douts and challenges, my coding experience is not so bad:)
+# Today, despite of all the douts and challenges, my coding skills not so bad:)
 
 - 1 year - Swift and C.
 - 1,5 years - Python.
