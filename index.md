@@ -1,4 +1,4 @@
-# Hello! This Tumar Kussainov's AI/Machine Learning repository:
+# Hello! This is Tumar Kussainov's AI/Machine Learning repository:
 
 I will not be posting my [personal project](www.github.com/tumarkuss/AI-MachineLearning-Practice/MatchAI) documentation here yet. But some of the techniques and AI practices will be available in the [Practice](www.github.com/tumarkuss/AI-MachineLearning-Practice/Practice) directory. I will be more than glad to share some of my work with you in exchange for your opinion; feel free to [contact me](mailto:tumarkuss@gmail.com)
 
