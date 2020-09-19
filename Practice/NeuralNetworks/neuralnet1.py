@@ -60,3 +60,4 @@ if __name__ == "__main__":
     print neural_network.synaptic_weights
 
     print neural_network.think(array([1, 0, 0]))
+ 
