@@ -5,7 +5,7 @@ I will not be posting my [personal project](www.github.com/tumarkuss/AI-MachineL
 ## My tech experience:
 ```markdown
 I am a senior year student at Pace University, majoring in Computer Science(B.S.).
-Up to my first year at Berkeley City College, I had no understanding of CS
+Up to my first year at Berkeley,CA I had no understanding of CS
 and the only programming experience I have worked with by that time
 were HTML, CSS, Pascal :(
 
