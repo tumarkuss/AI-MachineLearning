@@ -20,7 +20,7 @@ were HTML, CSS, Pascal :(
 - 3 personal projects
   and
 # Most importantly: experience, knowledge and friends!
- # And I am beginning my new journey
+ > And I am beginning my new journey
 ```
 ## Why AI?
 
